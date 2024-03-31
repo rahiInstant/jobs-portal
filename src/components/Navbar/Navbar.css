@@ -1,0 +1,6 @@
+#nav{
+    background: url('/assets/images/bg1.png'), url('/assets/images/bg2.png');
+    background-repeat: no-repeat;
+    background-position: left bottom, right top;
+    background-color: #7E90FE0D;
+}
